@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "IbarraRealNova-BoldItalic";
+    src: url("../police/IbarraRealNova-BoldItalic.ttf");
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("../police/inter.ttf");
+}
+
+@font-face {
+    font-family: "Inter Light";
+    src: url("../police/inter-light.otf");
+}
